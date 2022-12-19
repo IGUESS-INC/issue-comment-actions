@@ -13,7 +13,7 @@ inputs:
     description: "Message"
     required: false
     default: |
-      Thank you for opening the issue!
+      Szia! Köszönjük, hogy jelezted a hibát. A fejlesztők már dolgoznak a megoldáson!
 runs:
   using: "node12"
   main: "dist/index.js"
